@@ -1,0 +1,15 @@
+.toolbar {
+  color: beige;
+  background-color: #282c34;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.filler {
+  min-height: 2000px;
+  background-color: burlywood;
+}
